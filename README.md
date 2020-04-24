@@ -1,2 +1,2 @@
 # DS_POC
-Data Science Proof of various concepts.
+Data Science, Proof of various concepts.
